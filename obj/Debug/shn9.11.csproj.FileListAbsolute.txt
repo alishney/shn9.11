@@ -1,0 +1,12 @@
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\bin\Debug\Database1.mdf
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\bin\Debug\Database1_log.ldf
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\bin\Debug\shn9.11.exe.config
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\bin\Debug\shn9.11.exe
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\bin\Debug\shn9.11.pdb
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\obj\Debug\shn9.11.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\obj\Debug\shn9._11.Form1.resources
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\obj\Debug\shn9._11.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\obj\Debug\shn9.11.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\obj\Debug\shn9.11.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\obj\Debug\shn9.11.exe
+C:\Users\Xiaomi\source\repos\shn9.11\shn9.11\obj\Debug\shn9.11.pdb
